@@ -48,4 +48,9 @@ $(document).ready(function() {
     };
     $("body").addClass("font-timesnewroman");
   });
+
+  $("p").click(function(){
+    $(this).toggleClass("bleepbloop");
+  });
+
 });
