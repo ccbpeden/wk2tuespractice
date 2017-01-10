@@ -1,0 +1,18 @@
+#invisibility {
+  display:none;
+}
+
+#fadein {
+  display:none;
+  color: white;
+}
+#slidein {
+  display:none;
+}
+
+#superfancy {
+  display:none;
+  color: red;
+  font-size:50px;
+  font-family:"Comic Sans MS";
+}
